@@ -1,0 +1,2 @@
+# MSTraining
+learning GIT
